@@ -54,6 +54,6 @@ Currently experimenting with **Next.js** for SSR, SSG and exploring new ways to 
 
 ---
 
-### 💬 “**Code is like humor: when you have to explain it, it’s bad.**” – Cory House  
+### 💬 “**This world will continue to need folks who can create solutions, package them into tools that anybody can use, and solve entirely new classes of problems.**” – Suyash Kharade
 Let’s build something great together!
 
