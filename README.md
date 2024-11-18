@@ -1,16 +1,59 @@
-## Hi there 👋
+# 🌟 Hi, I'm **Suyash Kharade** – Frontend Developer & Web Enthusiast 🚀
 
-<!--
-**Suyyuu/Suyyuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my corner of the internet! I’m a **Frontend Developer** with a passion for crafting seamless, beautiful, and **user-friendly interfaces**. From **React** to **Tailwind**, I use cutting-edge technologies to deliver modern and responsive web experiences.
 
-Here are some ideas to get you started:
+Right now, I’m actively looking for **Frontend/Full Stack Developer** roles where I can apply my skills to create products that make a difference. 💼
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 **My Tech Stack**  
+
+### 🌍 **Frontend Development**  
+- **HTML** | **CSS** | **JavaScript** (ES6+)  
+- **React.js** | **Next.js** | **TypeScript**  
+- **Tailwind CSS** | **Material UI** | **GSAP** (Animations)
+
+### 💾 **Backend & Databases**  
+- **Node.js** | **Nest.js**  
+- **PostgreSQL** | **REST API**  
+- **WebSockets** | **Docker**  
+
+### 🛠️ **Other Tools I Use**  
+- **Redux** | **Zustand** (State Management)  
+- **Postman** | **Algolia** (Search)  
+- **Git** | **CI/CD**  
+
+---
+
+## 🌈 **Notable Projects**  
+
+#### 🌐 [Personal Portfolio](https://www.suyashkharade.com)  
+Showcasing my journey as a developer. Built with **React**, **Tailwind CSS**, and deployed on **Vercel**. A place to highlight my projects and skills.
+
+#### 🎬 [Movies Info Website]  
+A movie search app with a **beautiful UI** and deep integration with **TMDB API** to fetch and display movie information.
+
+#### 🍲 [Recipe Finder App] 
+Explore thousands of recipes with **infinite scrolling** and real-time filtering. Powered by **React** and **Zustand**.
+
+#### 💳 [Credit Card Landing Page] 
+Designed and developed a high-converting, animated landing page for a **credit card** product. Optimized for **responsive** design.
+
+---
+
+## 🚀 **What’s on My Mind**  
+Currently experimenting with **Next.js** for SSR, SSG and exploring new ways to improve **state management** in large-scale React apps. I’m also diving into **GraphQL**, **Nest.js** and **TypeScript** for a more structured approach to full stack development.
+
+---
+
+## 📞 **Let’s Connect**  
+- 📧 [Email](mailto:suyashkharade1234@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/suyash-kharade1234)  
+- 🌐 [Personal Website](https://www.suyashkharade.com)  
+- 🐦 [Twitter](https://x.com/Suyash170502)
+
+---
+
+### 💬 “**Code is like humor: when you have to explain it, it’s bad.**” – Cory House  
+Let’s build something great together!
+
