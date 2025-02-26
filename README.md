@@ -25,7 +25,7 @@ Right now, I’m actively looking for **Frontend/Full Stack Developer** roles wh
 
 ---
 
-## 🌈 **Notable Projects**  
+## 💻 **Notable Projects**  
 
 #### 🌐 [Personal Portfolio](https://www.suyashkharade.com)  
 Showcasing my journey as a developer. Built with **React**, **Tailwind CSS**, and deployed on **Vercel**. A place to highlight my projects and skills.
