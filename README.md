@@ -49,7 +49,7 @@ Currently experimenting with **Next.js** for SSR, SSG and exploring new ways to 
 ## 📞 **Let’s Connect**  
 - 📧 [Email](mailto:suyashkharade1234@gmail.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/suyash-kharade1234)  
-- 🌐 [Personal Website]([https://www.suyashkharade.com](https://portfolio-suyash-kharades-projects.vercel.app/))  
+- 🌐 [Personal Website](https://portfolio-suyash-kharades-projects.vercel.app/)  
 - 🐦 [Twitter](https://x.com/Suyash170502)
 
 ---
