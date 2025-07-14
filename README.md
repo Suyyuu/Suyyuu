@@ -14,7 +14,7 @@ Right now, I’m actively looking for **Frontend/Full Stack Developer** roles wh
 - **Tailwind CSS** | **Material UI** | **GSAP** (Animations)
 
 ### 💾 **Backend & Databases**  
-- **Node.js** | **Nest.js**  
+- **Node.js** | **GraphQL**  
 - **PostgreSQL** | **REST API**  
 - **WebSockets** | **Docker**  
 
