@@ -1,6 +1,6 @@
 # 🌟 Hi, I'm **Suyash Kharade** – Frontend Developer & Web Enthusiast 🚀
 
-Welcome to my corner of the internet! I’m a **Frontend Developer** with a passion for crafting seamless, beautiful, and **user-friendly interfaces**. From **React** to **Tailwind**, I use cutting-edge technologies to deliver modern and responsive web experiences.
+Welcome to my corner of the internet! I’m a **Frontend Developer** with a passion for crafting seamless, beautiful, and **user-friendly interfaces**. From **React & Next.js**  to **Tailwind**, I use cutting-edge technologies to deliver modern and responsive web experiences.
 
 Right now, I’m actively looking for **Frontend/Full Stack Developer** roles where I can apply my skills to create products that make a difference. 💼
 
